@@ -20,7 +20,3 @@ print(result.output)
 ...
 if __name__ == "__main__":
     main()
-
-
-  git config --global user.email "kumarsuraj9450@gmail.com"
-  git config --global user.name "Kumar Suraj"
