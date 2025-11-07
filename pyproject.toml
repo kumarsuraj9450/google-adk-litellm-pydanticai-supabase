@@ -1,0 +1,13 @@
+[project]
+name = "hello-world"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "a2a-sdk[all,postgresql]>=0.3.11",
+    "google-adk>=1.18.0",
+    "pydantic-ai>=1.12.0",
+    "python-dotenv>=1.2.1",
+    "supabase>=2.24.0",
+]
